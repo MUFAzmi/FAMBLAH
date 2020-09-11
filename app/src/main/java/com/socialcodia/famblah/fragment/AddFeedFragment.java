@@ -53,7 +53,7 @@ public class AddFeedFragment extends Fragment {
 
     private EditText inputContent;
     private ImageView selectFeedImage,selectFeedVideo,ivFeedImage,inputFeedImage,userProfileImage,feedUserImage;
-    private TextView tvFeedContent,tvUserName,tvFeedTimestamp;
+    private TextView tvFeedContent, tvUserName, tvFeedTimestamp;
     private Button btnPostFeed;
     private CardView cardView;
     private Bitmap bitmap;
